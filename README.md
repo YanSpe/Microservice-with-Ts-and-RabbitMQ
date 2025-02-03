@@ -4,8 +4,6 @@ Welcome to the dreifach.ai coding challenge!
 
 ## Task
 
-At dreifach.ai we work a lot with industry insurance brokers for small and medium-sized enterprises. A typical problem these brokers face is that they receive many emails that have to be manually processed by the back office team. This is a tedious, boring task that takes up a lot of time and is prone to errors.
-
 Your task is to write a http microservice that receives emails via POST request, classifies the email purpose & insurance type, extracts relevant data from the email, and then sends the extracted data to a message queue (to the topic corresponding to the email purpose). 
 
 The purpose of the email can be one of the following:
