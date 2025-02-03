@@ -1,4 +1,4 @@
-# dreifach.ai coding-challenge
+# Microservice made from Typescript with the ability to analyze POST messages and send them to a message queue
 
 Welcome to the dreifach.ai coding challenge! 
 
